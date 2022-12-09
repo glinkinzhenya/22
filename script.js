@@ -22,7 +22,7 @@ const obj = {
     },
 };
 
-let newObj = {};
+const newObj = {};
 function convert(obj) {
 
     for (let key in obj) {
